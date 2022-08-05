@@ -3,4 +3,6 @@ const displayValorActual = document-getElementById('valor-actual');
 const botonesNumeros = document.querySelectorAll('.numero');
 const botonesOperadores = document.querySelectorAll('.operador');
 
-const Calculadora = new Calculadora();
+botonesNumeros.forEach(boton =>{
+    boton.addEventListener
+})
